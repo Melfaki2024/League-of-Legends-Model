@@ -1,11 +1,8 @@
 # League of Legends Model: Predicting The Winner
-A project for the practice and application of Data Science
-
-Credit: Benjamin Bestmann and Mohamed Elfaki
 
 ### In this project, we create a Decision Tree model in order to predict whether or not a player is going to be on the winning or losing side of a given game. This is done through the League of Legends data set of competitive match data from the 2022 season.
 
-### Our exploratory data analysis on this dataset can be found: [League of Legends Game Analysis](https://benjaminbestmann.github.io/League-of-Legends-Project/)
+### Our exploratory data analysis on this dataset can be found here: [League of Legends Game Analysis](https://benjaminbestmann.github.io/League-of-Legends-Project/)
 
 # Framing the problem
 
