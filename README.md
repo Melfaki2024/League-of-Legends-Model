@@ -1,4 +1,7 @@
-### In this project, we create a Decision Tree model in order to predict whether or not a player is going to be on the winning or losing side of a given game. This is done through the League of Legends data set of competitive match data from the 2022 season.
+# League of Legends Model: Predicting the Winner
+
+
+### In this project, we create a Decision Tree model in order to predict whether or not a player is going to be on the winning or losing side of a given game. This is done through = Oracle’s Elixir’s League of Legends competitive match dataset from the 2022 season.
 
 ### Our exploratory data analysis on this dataset can be found here: [League of Legends Game Analysis](https://benjaminbestmann.github.io/League-of-Legends-Project/)
 
@@ -66,3 +69,4 @@ To conduct this, we utilized a permutation test and our test statistic for this 
 Our model's accuracy and the results of our fairness analysis point to our model being both effective and fair. 
 
 
+Credit = Mohamed Elfaki and [Benjamin Bestmann](https://github.com/benjaminbestmann)
