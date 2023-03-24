@@ -69,4 +69,4 @@ To conduct this, we utilized a permutation test and our test statistic for this 
 Our model's accuracy and the results of our fairness analysis point to our model being both effective and fair. 
 
 
-Credit = Mohamed Elfaki and [Benjamin Bestmann](https://github.com/benjaminbestmann)
+Credit: Mohamed Elfaki and [Benjamin Bestmann](https://github.com/benjaminbestmann)
